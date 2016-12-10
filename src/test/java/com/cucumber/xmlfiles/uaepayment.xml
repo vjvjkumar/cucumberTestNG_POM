@@ -1,0 +1,8 @@
+<!-- this is my uae payment suite -->
+<suite name="UAE Payment Suite">
+	<test name="UAE Home">
+		<classes>
+			<class name="com.cucumber.runner.SuiteRunner1"></class>
+		</classes>
+	</test>
+</suite>
